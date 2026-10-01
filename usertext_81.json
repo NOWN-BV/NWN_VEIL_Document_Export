@@ -1,0 +1,812 @@
+[
+ {
+  "group": "RGYL_PLN",
+  "Name_14": "RGYL",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "AR_A"
+ },
+ {
+  "group": "FUME_TBS",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME SPR",
+  "panels": "BX_A BX_B BX_C BX_D"
+ },
+ {
+  "group": "FUME_TBM",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME MED",
+  "panels": "BY_A BY_B BY_C BY_D"
+ },
+ {
+  "group": "FUME_TBD",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME DNS",
+  "panels": "BZ_A BZ_B BZ_C BZ_D"
+ },
+ {
+  "group": "FUME_TSM",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME SPR, FUME MED",
+  "panels": "BD_A BD_B BD_C BD_D"
+ },
+ {
+  "group": "FUME_TSD",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME SPR, FUME DNS",
+  "panels": "BE_A BE_B BE_C BE_D"
+ },
+ {
+  "group": "FUME_TMD",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME MED, FUME DNS",
+  "panels": "BF_A BF_B BF_C BF_D"
+ },
+ {
+  "group": "FUME_SPR",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME Transition",
+  "panels": "BA_A BA_B BA_C BA_D"
+ },
+ {
+  "group": "FUME_MED",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME Transition",
+  "panels": "BB_A BB_B BB_C BB_D"
+ },
+ {
+  "group": "FUME_DNS",
+  "Name_14": "FUME",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "FUME Transition",
+  "panels": "BC_A BC_B BC_C BC_D"
+ },
+ {
+  "group": "RAST_PLN",
+  "Name_14": "RAST",
+  "Configurability": "NO",
+  "Panel System": "8",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "KB_A1 KB_B1 KB_C1 KB_D1 KB_A2 KB_B2 KB_C2 KB_D2"
+ },
+ {
+  "group": "RAST_RXF",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "KX_A"
+ },
+ {
+  "group": "RAST_RXH",
+  "Name_14": "RAST",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "KH_A1 KH_B1"
+ },
+ {
+  "group": "RAST_RCY",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "KY_A"
+ },
+ {
+  "group": "RAST_SQD",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "KD_A"
+ },
+ {
+  "group": "RAST_TSX",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "K1_A"
+ },
+ {
+  "group": "RAST_TXY",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "K3_A K3_B"
+ },
+ {
+  "group": "RAST_TSY",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "K2_A"
+ },
+ {
+  "group": "RAST_SQF",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "KF_A"
+ },
+ {
+  "group": "RAST_SQH",
+  "Name_14": "RAST",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, ARAY SML, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "KS_A"
+ },
+ {
+  "group": "CHAM_PLN",
+  "Name_14": "CHAM",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "CF_A1 CF_B1"
+ },
+ {
+  "group": "CHEV_PLN",
+  "Name_14": "CHEV",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "CV_A"
+ },
+ {
+  "group": "CHEV_INV",
+  "Name_14": "CHEV",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "CI_A"
+ },
+ {
+  "group": "ARAY_XML",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY LRG, ARAY MED, TIDE XIN",
+  "panels": "C3_A"
+ },
+ {
+  "group": "ARAY_XSL",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY LRG, ARAY SML, CZEC Transition, TIDE XST, TIDE XIN",
+  "panels": "C2_A"
+ },
+ {
+  "group": "ARAY_XSM",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY MED, ARAY SML, CZEC Transition, TIDE XST",
+  "panels": "C1_A"
+ },
+ {
+  "group": "ARAY_BML",
+  "Name_14": "ARAY",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY LRG, TIDE XIN, TIDE YST",
+  "panels": "C9_A C9_B"
+ },
+ {
+  "group": "ARAY_BSL",
+  "Name_14": "ARAY",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY LRG, TIDE XIN, TIDE YST",
+  "panels": "C8_A C8_B"
+ },
+ {
+  "group": "ARAY_BSM",
+  "Name_14": "ARAY",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY MED",
+  "panels": "C7_A C7_B"
+ },
+ {
+  "group": "ARAY_YML",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY LRG, ARAY MED, TIDE YST",
+  "panels": "C6_A"
+ },
+ {
+  "group": "ARAY_YSL",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY LRG, ARAY SML, CZEC Transition, TIDE YST, TIDE YIN",
+  "panels": "C5_A"
+ },
+ {
+  "group": "ARAY_YSM",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY MED, ARAY SML, CZEC Transition, TIDE YIN",
+  "panels": "C4_A"
+ },
+ {
+  "group": "ARAY_LRG",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY Transition, TIDE XIN, TIDE YST",
+  "panels": "CL_A"
+ },
+ {
+  "group": "ARAY_MED",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY Transition",
+  "panels": "CM_A"
+ },
+ {
+  "group": "ARAY_SML",
+  "Name_14": "ARAY",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY Transition, CZEC Transition, TIDE XST, TIDE YIN",
+  "panels": "CS_A"
+ },
+ {
+  "group": "CZEC_BBT",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC, TIDE YIN",
+  "panels": "XB_A"
+ },
+ {
+  "group": "CZEC_BLF",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC, TIDE XST",
+  "panels": "XL_A"
+ },
+ {
+  "group": "CZEC_BRG",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC, TIDE XST",
+  "panels": "XR_A"
+ },
+ {
+  "group": "CZEC_BTP",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC, TIDE YIN",
+  "panels": "XT_A"
+ },
+ {
+  "group": "CZEC_CBL",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, TIDE XST, TIDE YIN",
+  "panels": "X1_A"
+ },
+ {
+  "group": "CZEC_CBR",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, TIDE XST, TIDE YIN",
+  "panels": "X2_A"
+ },
+ {
+  "group": "CZEC_CTL",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, TIDE XST, TIDE YIN",
+  "panels": "X3_A"
+ },
+ {
+  "group": "CZEC_CTR",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, TIDE XST, TIDE YIN",
+  "panels": "X4_A"
+ },
+ {
+  "group": "CZEC_PLN",
+  "Name_14": "CZEC",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "CZEC Transition",
+  "panels": "XX_A"
+ },
+ {
+  "group": "FLAK_PLN",
+  "Name_14": "FLAK",
+  "Configurability": "NO",
+  "Panel System": "8",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "DI_A1 DI_B1 DI_C1 DI_D1 DI_A2 DI_B2 DI_C2 DI_D2"
+ },
+ {
+  "group": "BRUT_PLN",
+  "Name_14": "BRUT",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "GL_A"
+ },
+ {
+  "group": "RING_PLN",
+  "Name_14": "RING",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "HB_A"
+ },
+ {
+  "group": "WARP_PLN",
+  "Name_14": "WARP",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP Transition",
+  "panels": "LA_A"
+ },
+ {
+  "group": "WARP_TDA",
+  "Name_14": "WARP",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LD_A"
+ },
+ {
+  "group": "WARP_TDB",
+  "Name_14": "WARP",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LD_A2 LD_A1"
+ },
+ {
+  "group": "WARP_TLA",
+  "Name_14": "WARP",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LL_A"
+ },
+ {
+  "group": "WARP_TLB",
+  "Name_14": "WARP",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LL_A1 LL_B1"
+ },
+ {
+  "group": "WARP_TRA",
+  "Name_14": "WARP",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LR_A"
+ },
+ {
+  "group": "WARP_TRB",
+  "Name_14": "WARP",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LR_A1 LR_B1"
+ },
+ {
+  "group": "WARP_TUA",
+  "Name_14": "WARP",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LU_A"
+ },
+ {
+  "group": "WARP_TUB",
+  "Name_14": "WARP",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP, WARP INV",
+  "panels": "LU_A2 LU_A1"
+ },
+ {
+  "group": "WARP_INV",
+  "Name_14": "WARP",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "WARP Transition",
+  "panels": "LI_A"
+ },
+ {
+  "group": "MESH_PLN",
+  "Name_14": "MESH",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH Transition",
+  "panels": "NE_A"
+ },
+ {
+  "group": "MESH_TDA",
+  "Name_14": "MESH",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "ND_A"
+ },
+ {
+  "group": "MESH_TDB",
+  "Name_14": "MESH",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "ND_A1 ND_A2"
+ },
+ {
+  "group": "MESH_TLA",
+  "Name_14": "MESH",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "NL_A"
+ },
+ {
+  "group": "MESH_TLB",
+  "Name_14": "MESH",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "NL_A1 NL_B1"
+ },
+ {
+  "group": "MESH_TRA",
+  "Name_14": "MESH",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "NR_A"
+ },
+ {
+  "group": "MESH_TRB",
+  "Name_14": "MESH",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "NR_A1 NR_B1"
+ },
+ {
+  "group": "MESH_TUA",
+  "Name_14": "MESH",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "NU_A"
+ },
+ {
+  "group": "MESH_TUB",
+  "Name_14": "MESH",
+  "Configurability": "NO",
+  "Panel System": "2",
+  "Pattern Type": "TRANSITION",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH, MESH INV",
+  "panels": "NU_A1 NU_A2"
+ },
+ {
+  "group": "MESH_INV",
+  "Name_14": "MESH",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "MESH Transition",
+  "panels": "NI_A"
+ },
+ {
+  "group": "SMOG_PLN",
+  "Name_14": "SMOG",
+  "Configurability": "NO",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "NO_A1 NO_B1 NO_A2 NO_B2"
+ },
+ {
+  "group": "TIDE_XST",
+  "Name_14": "TIDE",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition",
+  "panels": "PX_A"
+ },
+ {
+  "group": "TIDE_XIN",
+  "Name_14": "TIDE",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY LRG, ARAY Transition",
+  "panels": "P1_A"
+ },
+ {
+  "group": "TIDE_YST",
+  "Name_14": "TIDE",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "ARAY LRG, ARAY Transition",
+  "panels": "PY_A"
+ },
+ {
+  "group": "TIDE_YIN",
+  "Name_14": "TIDE",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "YES",
+  "Compatable Pattern Name": "RAST RXF, RAST RXH, RAST RCY, RAST SQD, RAST Transition, RAST SQF, RAST SQH, ARAY SML, ARAY Transition, CZEC Transition",
+  "panels": "P2_A"
+ },
+ {
+  "group": "RAIN_PLN",
+  "Name_14": "RAIN",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "RA_A RA_B RA_C RA_D"
+ },
+ {
+  "group": "FALL_PLN",
+  "Name_14": "FALL",
+  "Configurability": "NO",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "RF_A1 RF_B1 RF_A2 RF_B2"
+ },
+ {
+  "group": "SERR_PLN",
+  "Name_14": "SERR",
+  "Configurability": "NO",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "SW_A1 SW_B1 SW_A2 SW_B2"
+ },
+ {
+  "group": "RAYS_DNS",
+  "Name_14": "RAYS",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "SD_A"
+ },
+ {
+  "group": "RAYS_SPR",
+  "Name_14": "RAYS",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "SS_A"
+ },
+ {
+  "group": "NOCT_DNS",
+  "Name_14": "NOCT",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "SA_A SA_B SA_C SA_D"
+ },
+ {
+  "group": "NOCT_MED",
+  "Name_14": "NOCT",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "SB_A SB_B SB_C SB_D"
+ },
+ {
+  "group": "NOCT_SPR",
+  "Name_14": "NOCT",
+  "Configurability": "YES",
+  "Panel System": "4",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "SC_A SC_B SC_C SC_D"
+ },
+ {
+  "group": "SHIM_PLN",
+  "Name_14": "SHIM",
+  "Configurability": "YES",
+  "Panel System": "1",
+  "Pattern Type": "STANDARD",
+  "Compatable Pattern": "NO",
+  "Compatable Pattern Name": "",
+  "panels": "WE_A"
+ }
+]

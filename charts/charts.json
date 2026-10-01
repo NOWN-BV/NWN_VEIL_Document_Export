@@ -1,0 +1,113 @@
+{
+ "bands": [
+  80,
+  100,
+  125,
+  160,
+  200,
+  250,
+  315,
+  400,
+  500,
+  630,
+  800,
+  1000,
+  1250,
+  1600,
+  2000,
+  2500,
+  3150,
+  4000,
+  5000
+ ],
+ "canvas_h_mm": 96.0,
+ "canvas_w_mm": 122.15,
+ "inline": [
+  {
+   "flux_lm": 1396.0,
+   "name": "InLine 3.5 W/ft - 4 ft",
+   "peak_cd": 444.4,
+   "slug": "3.5Wft_4ft"
+  },
+  {
+   "flux_lm": 2100.0,
+   "name": "InLine 5 W/ft - 4 ft",
+   "peak_cd": 668.5,
+   "slug": "5Wft_4ft"
+  },
+  {
+   "flux_lm": 2457.0,
+   "name": "InLine 7 W/ft - 4 ft",
+   "peak_cd": 782.1,
+   "slug": "7Wft_4ft"
+  },
+  {
+   "flux_lm": 4084.0,
+   "name": "InLine 10 W/ft - 4 ft",
+   "peak_cd": 1300.0,
+   "slug": "10Wft_4ft"
+  },
+  {
+   "flux_lm": 2792.0,
+   "name": "InLine 3.5 W/ft - 8 ft",
+   "peak_cd": 888.7,
+   "slug": "3.5Wft_8ft"
+  },
+  {
+   "flux_lm": 4200.0,
+   "name": "InLine 5 W/ft - 8 ft",
+   "peak_cd": 1336.9,
+   "slug": "5Wft_8ft"
+  },
+  {
+   "flux_lm": 4914.0,
+   "name": "InLine 7 W/ft - 8 ft",
+   "peak_cd": 1564.2,
+   "slug": "7Wft_8ft"
+  },
+  {
+   "flux_lm": 8168.0,
+   "name": "InLine 10 W/ft - 8 ft",
+   "peak_cd": 2600.0,
+   "slug": "10Wft_8ft"
+  }
+ ],
+ "patterns": {
+  "RAST_PLN": {
+   "effective_nrc": 0.75,
+   "effective_nrc_csv": 0.74,
+   "effective_nrc_raw": 0.7423,
+   "nrc": 0.75,
+   "openness_pct": 23.7,
+   "peak_cd_25W": 203.0,
+   "peak_cd_45W": 325.0,
+   "sac": [
+    0.845,
+    0.918,
+    0.935,
+    0.889,
+    0.762,
+    0.645,
+    0.59,
+    0.597,
+    0.632,
+    0.683,
+    0.741,
+    0.799,
+    0.828,
+    0.861,
+    0.891,
+    0.876,
+    0.86,
+    0.844,
+    0.844
+   ],
+   "x": {
+    "x1": 0.666,
+    "x2": 0.637,
+    "x3": 0.79,
+    "x4": 0.876
+   }
+  }
+ }
+}

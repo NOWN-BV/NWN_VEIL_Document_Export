@@ -1,0 +1,32 @@
+family,clause,note
+RGYL,set perforations in crossing diagonal bands that read as an argyle lattice,초안
+FUME,"scatter perforations in loose, irregular drifts, leaving broad areas of unbroken panel between them",초안
+RAST,"vary perforation size in soft diagonal drifts, massing them into blocks of light and shade",초안
+RAST,swell perforations toward the centre of each horizontal band and taper them at the edges,초안
+RAST,swell perforations toward the centre of each vertical band and taper them at the edges,초안
+RAST,"grade perforations outward from square clusters, evenly in both directions",초안
+RAST,"grade perforations outward from square clusters at close spacing, for a tighter field",초안
+CHAM,"run chamfered slots on a continuous diagonal, closely spaced across the face",초안
+CHEV,step perforations into V-shaped bands that meet point to point,초안
+CHEV,"step perforations into V-shaped bands that meet point to point, reversed against the standard run",초안
+ARAY,hold perforations at a single diameter on an even grid,초안
+CZEC,"set small perforations on a regular grid, crossing at even intervals",초안
+FLAK,"break the surface into graded square apertures, resolving from fine to open like a halftone",초안
+BRUT,sweep perforations from large to small in one continuous grade across the panel,초안
+RING,run graduated perforations in alternating diagonal bands to form a chevron weave,승인됨
+WARP,weave larger perforations through a fine field to form an open diagonal lattice,초안
+WARP,"reverse the diagonal lattice, opening the field where the standard pattern closes it",초안
+MESH,"open the field into a mesh, with perforations meeting edge to edge",초안
+MESH,"reverse the mesh, carrying the open field where the standard pattern holds material",초안
+SMOG,"hold a fine, closely pitched perforation across the whole face, broken only by sparse larger marks",초안
+TIDE,"pulse perforation size along the horizontal, alternating bands of open and closed across the panel",초안
+TIDE,"pulse perforation size along the horizontal, with the open and closed bands reversed",초안
+TIDE,"pulse perforation size along the vertical, alternating bands of open and closed up the panel",초안
+TIDE,"pulse perforation size along the vertical, with the open and closed bands reversed",초안
+RAIN,"draw perforations into vertical slots of varying length, falling the height of the panel",초안
+FALL,"stagger large and small perforations row by row, reading as scattered fall",초안
+SERR,"ramp perforation size up and drop it sharply, repeating the step across the panel",초안
+RAYS,run perforations in close diagonal ranks across the full face,초안
+RAYS,"run perforations in open diagonal ranks, leaving the field between them clear",초안
+NOCT,"scatter small perforations sparsely, like points of light on an unbroken field",초안
+SHIM,"grow perforations along one diagonal and fade them along the other, massing into wedges",초안

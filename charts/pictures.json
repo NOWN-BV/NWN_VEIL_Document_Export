@@ -1,0 +1,158 @@
+[
+ {
+  "page": "04-4-B",
+  "layer": "PICTURE",
+  "material": "Clipboard-bb9955b1-169c-44cb-9b83-9ddecde39277",
+  "source": "N:\\Products\\Development\\Product Lab\\VEIL\\VEIL-Current\\VEIL_new pdf 3_embedded_files\\Clipboard-bb9955b1-169c-44cb-9b83-9ddecde39277.png",
+  "how": "linked",
+  "box_mm": [
+   17.409,
+   170.888,
+   302.626,
+   211.833
+  ]
+ },
+ {
+  "page": "04-4-B",
+  "layer": "PICTURE",
+  "material": "Clipboard-56d2c2eb-869f-4a56-b9ad-bd3c705e46f2",
+  "source": "N:\\Products\\Development\\Product Lab\\VEIL\\VEIL-Current\\VEIL_new pdf 3_embedded_files\\Clipboard-56d2c2eb-869f-4a56-b9ad-bd3c705e46f2.png",
+  "how": "linked",
+  "box_mm": [
+   18.754,
+   91.984,
+   420.628,
+   130.862
+  ]
+ },
+ {
+  "page": "04-4-B",
+  "layer": "PICTURE",
+  "material": "Clipboard-1dfdf547-6274-424e-b267-e690a3de6510",
+  "source": "N:\\Products\\Development\\Product Lab\\VEIL\\VEIL-Current\\VEIL_new pdf 3_embedded_files\\Clipboard-1dfdf547-6274-424e-b267-e690a3de6510.png",
+  "how": "linked",
+  "box_mm": [
+   18.728,
+   23.887,
+   341.223,
+   61.843
+  ]
+ },
+ {
+  "page": "04-1",
+  "layer": "RASTER_PHOTO",
+  "material": "Clipboard-a228ac51-1eca-4978-b4fd-f754febf4e17",
+  "source": "C:\\Users\\kyuho.kim\\AppData\\Local\\Temp\\claude\\C--dev-Veil-Pipeline-latest\\e610153a-b726-4ee5-bf9a-ccb423492c90\\scratchpad\\embedded\\Clipboard-a228ac51-1eca-4978-b4fd-f754febf4e17.png",
+  "how": "embedded",
+  "box_mm": [
+   273.517,
+   19.54,
+   420.0,
+   132.608
+  ]
+ },
+ {
+  "page": "04-3",
+  "layer": "20_DRAWING",
+  "material": "Clipboard-16c56707-d836-44a1-b5de-2262e1eed39b",
+  "source": "N:\\Products\\Development\\Product Lab\\VEIL\\VEIL-Current\\VEIL_new pdf 3_embedded_files\\Clipboard-16c56707-d836-44a1-b5de-2262e1eed39b.png",
+  "how": "linked",
+  "box_mm": [
+   286.833,
+   20.5,
+   427.709,
+   128.0
+  ]
+ },
+ {
+  "page": "04-3",
+  "layer": "20_DRAWING",
+  "material": "Clipboard-0e4e3b7d-7285-402b-b431-b2a3e19957ca",
+  "source": "N:\\Products\\Development\\Product Lab\\VEIL\\VEIL-Current\\VEIL_new pdf 3_embedded_files\\Clipboard-0e4e3b7d-7285-402b-b431-b2a3e19957ca.png",
+  "how": "linked",
+  "box_mm": [
+   286.833,
+   128.0,
+   427.575,
+   235.5
+  ]
+ },
+ {
+  "page": "04-1",
+  "layer": "20_DRAWING",
+  "material": "Clipboard-03a43838-0495-4c74-85ca-c3160f9c93a9",
+  "source": "C:\\Users\\kyuho.kim\\AppData\\Local\\Temp\\claude\\C--dev-Veil-Pipeline-latest\\e610153a-b726-4ee5-bf9a-ccb423492c90\\scratchpad\\embedded\\Clipboard-03a43838-0495-4c74-85ca-c3160f9c93a9.png",
+  "how": "embedded",
+  "box_mm": [
+   284.255,
+   128.0,
+   420.0,
+   240.026
+  ]
+ },
+ {
+  "page": "04-2",
+  "layer": "RASTER_PHOTO",
+  "material": "Clipboard-d42f830c-a142-446c-b303-13a476667847",
+  "source": "C:\\Users\\kyuho.kim\\AppData\\Local\\Temp\\claude\\C--dev-Veil-Pipeline-latest\\e610153a-b726-4ee5-bf9a-ccb423492c90\\scratchpad\\embedded\\Clipboard-d42f830c-a142-446c-b303-13a476667847.png",
+  "how": "embedded",
+  "box_mm": [
+   284.645,
+   117.25,
+   433.317,
+   246.25
+  ]
+ },
+ {
+  "page": "04-2",
+  "layer": "RASTER_PHOTO",
+  "material": "Clipboard-0df4948c-f31e-4230-870c-95a6c7ea9cbe",
+  "source": "C:\\Users\\kyuho.kim\\AppData\\Local\\Temp\\claude\\C--dev-Veil-Pipeline-latest\\e610153a-b726-4ee5-bf9a-ccb423492c90\\scratchpad\\embedded\\Clipboard-0df4948c-f31e-4230-870c-95a6c7ea9cbe.png",
+  "how": "embedded",
+  "box_mm": [
+   273.517,
+   9.75,
+   420.0,
+   135.739
+  ]
+ },
+ {
+  "page": "04-4-A",
+  "layer": "Default",
+  "material": "Clipboard-6a73a3f3-f0e1-48c3-afd8-cb577e048b08",
+  "source": null,
+  "how": "missing",
+  "box_mm": [
+   14.656,
+   63.487,
+   429.818,
+   221.792
+  ]
+ },
+ {
+  "page": "04-4-B",
+  "layer": "PICTURE",
+  "material": "Clipboard-48cde16c-269c-41b2-b871-aa4e00b65684",
+  "source": "N:\\Products\\Development\\Product Lab\\VEIL\\VEIL-Current\\VEIL_new pdf 3_embedded_files\\Clipboard-48cde16c-269c-41b2-b871-aa4e00b65684.png",
+  "how": "linked",
+  "box_mm": [
+   16.874,
+   211.676,
+   304.322,
+   250.513
+  ]
+ },
+ {
+  "page": "04-4-B",
+  "layer": "Default",
+  "material": "Clipboard-0d639006-63e6-4380-b69f-dc5b5a207ab2",
+  "source": null,
+  "how": "missing",
+  "box_mm": [
+   18.214,
+   132.101,
+   260.949,
+   170.284
+  ]
+ }
+]

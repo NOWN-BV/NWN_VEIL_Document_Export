@@ -1,0 +1,26 @@
+# What a run produces, not what it needs.
+
+# the spec build_family.py writes for the pattern being printed
+family_spec.json
+
+# every script here writes its own log beside itself, so it can say what it
+# found on a machine where the console is not being watched
+*_log.txt
+
+# printed PDFs and the page manifest beside them
+smoke/
+*.pdf
+
+# the SAC overlays and polar plots. make_charts.py rebuilds these from the
+# test reports on N:. The _crop_ pictures in charts/ are NOT generated and
+# are committed - see the README.
+charts/*_nrc_overlay.png
+charts/*_polar_*.png
+charts/InLine_*.png
+charts/_print_*.jpg
+
+# backups the Rhino scripts write so their _restore companion can undo them.
+# They belong to one session on one machine.
+*_backup.json
+
+__pycache__/
